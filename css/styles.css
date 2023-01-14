@@ -1,0 +1,52 @@
+body {
+
+}
+
+
+
+.header {
+    font-family: 'Fugaz One', cursive;
+    text-align: center;
+    margin-top: 40px;
+    margin-right: 500px;
+    font-size: 50px;
+   color: #AA6F73;
+
+}
+
+.indeximage {
+    margin-left: 280px;
+    margin-top: 50px;
+}
+
+hr {
+    color: #AA6F73;
+    margin-right: 500px;
+    margin-left: 280px;
+}
+
+a {
+    display: inline-block;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 100px;
+    width: 30%;
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+    
+}
+
+.lasagna {
+ margin: 20px 300px 20px;
+ text-align: center;
+}
+
+.egg {
+ margin: 20px 300px 20px;
+ text-align: center;
+}
+
+.chicken {
+margin: 20px 300px 20px;
+text-align: center;
+}
