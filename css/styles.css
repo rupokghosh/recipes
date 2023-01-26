@@ -16,7 +16,7 @@ body {
    display: flex;
    justify-content: center;
    font-size: 50px;
-   color: #AA6F73;
+   color: #301E67;
 
 }
 
@@ -24,7 +24,7 @@ body {
 
 
 hr {
-    color: #AA6F73;
+    color: #301E67;
     margin-right: 500px;
     margin-left: 280px;
 }
@@ -36,7 +36,7 @@ a {
     font-size: 50px;
     padding: 20px;
     text-decoration: none;
-    color: #AA6F73;
+    color: #301E67;
     
 }
 
@@ -48,6 +48,5 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap
-    max-width: ;
+    
 }
