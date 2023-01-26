@@ -1,23 +1,27 @@
 body {
+    
 
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
 
 .header {
     font-family: 'Fugaz One', cursive;
-    text-align: center;
-    margin-top: 40px;
-    margin-right: 500px;
-    font-size: 50px;
+   display: flex;
+   justify-content: center;
+   font-size: 50px;
    color: #AA6F73;
 
 }
 
-.indeximage {
-    margin-left: 280px;
-    margin-top: 50px;
-}
+
+
 
 hr {
     color: #AA6F73;
@@ -26,27 +30,23 @@ hr {
 }
 
 a {
-    display: inline-block;
+    display: flex;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    height: 100px;
-    width: 30%;
     text-align: center;
     font-size: 50px;
     padding: 20px;
+    text-decoration: none;
+    color: #AA6F73;
     
 }
 
-.lasagna {
- margin: 20px 300px 20px;
- text-align: center;
-}
 
-.egg {
- margin: 20px 300px 20px;
- text-align: center;
-}
 
-.chicken {
-margin: 20px 300px 20px;
-text-align: center;
+
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap
+    max-width: ;
 }
